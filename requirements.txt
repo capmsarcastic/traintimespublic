@@ -2,4 +2,4 @@ streamlit
 requests
 pandas
 pytz
-streamlit-autorefresh
+streamlit_autorefresh
